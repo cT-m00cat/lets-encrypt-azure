@@ -5,6 +5,7 @@ on:
 
 env:
   ResourceGroup: POC-move-test
+  credentials: ${{ secrets.AZURE_CREDENTIALS }}
 jobs:
   build:
     runs-on: ubuntu-latest
