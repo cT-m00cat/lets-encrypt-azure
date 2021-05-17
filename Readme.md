@@ -1,6 +1,6 @@
 # Azure function based Let's Encrypt automation
 
-Automatically issue Let's Encrypt SSL certificates for all your custom domain names in Azure.
+Automatically issue Let's Encrypt SSL certificates for all your custom domain names in Azure..
 
 ![.github/workflows/azure-functionapp.yml](https://github.com/MarcStan/lets-encrypt-azure/workflows/.github/workflows/azure-functionapp.yml/badge.svg)
 
