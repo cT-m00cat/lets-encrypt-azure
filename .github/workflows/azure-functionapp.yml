@@ -41,7 +41,7 @@ jobs:
     - name: Login via Azure CLI
       uses: azure/login@v1
       with:
-        creds: ${{ env.credentials }}
+        credentials: ${{ secrets.AZURE_CREDENTIALS }}
     - name: Azure CLI ARM deployment
       uses: azure/CLI@v1
       with:
