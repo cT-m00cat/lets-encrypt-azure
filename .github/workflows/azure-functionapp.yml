@@ -5,7 +5,7 @@ on:
       - master
 
 env:
-  ResourceGroup: POC-move-test
+  ResourceGroup: m00cat-rg-01
 
 jobs:
   build:
