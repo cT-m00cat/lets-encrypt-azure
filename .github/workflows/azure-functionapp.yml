@@ -1,3 +1,4 @@
+name: Azure LetsEncrypt FunctionApp
 on:
   push:
     branches:
