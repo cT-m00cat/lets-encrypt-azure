@@ -2,7 +2,7 @@ on:
   push:
     branches:
       - master
-      # comment
+      # comment added to trigger build
 
 env:
   ResourceGroup: m00cat-rg-01
