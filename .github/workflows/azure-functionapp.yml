@@ -2,6 +2,7 @@ on:
   push:
     branches:
       - master
+      # comment
 
 env:
   ResourceGroup: m00cat-rg-01
